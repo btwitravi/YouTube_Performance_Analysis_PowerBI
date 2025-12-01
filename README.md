@@ -43,8 +43,8 @@ This project helps creators understand which content works best and the ideal po
 
 ## 🚀 How to Explore
 
--**1.** Download the .pbix file
--**2.** Open it in Power BI Desktop
+- **1.** Download the .pbix file
+- **2.** Open it in Power BI Desktop
 - **3.** Load the dataset if path differs
 - **4.** Interact with filters and charts
 
