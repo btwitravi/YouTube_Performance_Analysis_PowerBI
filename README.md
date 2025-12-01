@@ -42,11 +42,24 @@ This project helps creators understand which content works best and the ideal po
 | `README.md` |  Project overview & summary |
 
 ## 🚀 How to Explore
---1.  Download the .pbix file
+**1.** Download the .pbix file
+**2.** Open it in Power BI Desktop
+**3.** Load the dataset if path differs
+**4.** Interact with filters and charts
 
-Open it in Power BI Desktop
+## ⭐ About This Project
 
-Load the dataset if path differs
+This dashboard was created to analyze YouTube Shorts engagement and identify performance patterns.
+Useful for:
 
-Interact with filters and charts
+- Content creators
+- Social media marketers
+- Data analysis learners
+- Portfolio showcase
 
+## 👨‍💻 Author
+**Ravi Kumar Gupta**  
+📍 Delhi, India  
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/btwitravi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-gupta-161745247/)
